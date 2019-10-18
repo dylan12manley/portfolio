@@ -14,6 +14,10 @@ h2{
   text-align: center;
 }
 
+h3{
+  padding-left: 15px;
+}
+
 header {
   background: linear-gradient(to top, #ffffcc 23%, #ff99cc 62%);
 }
@@ -34,6 +38,17 @@ ol li {
 
 .checkout {
   color: purple;
+}
+
+.imagesTop {
+  display: flex;
+}
+
+.colorImage img{
+  padding-top: 125%;
+  padding-right: 75%;
+  max-width: 300%;
+  border-radius: 30%;
 }
 
 .portrait img {
@@ -64,10 +79,6 @@ div.aboutMe {
   padding: 10px;
   float: right;
   max-width: 20%;
-}
-
-.p1 {
-  padding-top: 20px;
 }
 
 .p2 {
