@@ -38,3 +38,11 @@ img {
   max-width: 89%;
   height: auto;
 }
+
+div.projects{
+  background: linear-gradient(to bottom, #ffffcc 23%, #ff99cc 62%)
+}
+
+div.aboutMe {
+  background: linear-gradient(to top, #ffffcc 23%, #ff99cc 62%)
+}
