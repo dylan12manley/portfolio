@@ -13,17 +13,21 @@ header {
   background: linear-gradient(to top, #ffffcc 23%, #ff99cc 62%);
 }
 .sidebar{
-    background: linear-gradient(to top, #ffffcc 23%, #ff99cc 62%);
+  background: linear-gradient(to top, #ffffcc 23%, #ff99cc 62%);
 }
 
 ol {
   padding: 0px;
   font-size: 10px;
 }
+ol li {
+  list-style-type: armenian;
+  font-weight: bold;
+}
 
 img {
   text-align: center;
-  border-radius: 8px;
+  border-radius: 30%;
   max-width: 89%;
   height: auto;
 }
