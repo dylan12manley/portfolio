@@ -12,11 +12,18 @@ h2{
 header {
   background: linear-gradient(to top, #ffffcc 23%, #ff99cc 62%);
 }
-p.sideP {
-  padding: 0px;
+.sidebar{
+    background: linear-gradient(to top, #ffffcc 23%, #ff99cc 62%);
 }
 
 ol {
   padding: 0px;
   font-size: 10px;
+}
+
+img {
+  text-align: center;
+  border-radius: 8px;
+  max-width: 89%;
+  height: auto;
 }
