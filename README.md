@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a website for my personal portfolio_
+_This is my web design portfolio. Contains links to my most recent git repos, as of October 18th 2019. Also contains a list of my skills and background bio info._
 
 ## Setup/Installation Requirements
 
