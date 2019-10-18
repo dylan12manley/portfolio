@@ -41,6 +41,9 @@ ol li {
   border-radius: 30%;
   max-width: 89%;
   height: auto;
+  padding-bottom: 10px;
+  padding-left: 20%;
+  padding-right: 10%;
 }
 
 div.projects{
@@ -54,7 +57,7 @@ div.aboutMe {
 .p1 img {
   padding: 10px;
   float: left;
-  max-width: 15%;
+  max-width: 10%;
 }
 
 .p2 img {
@@ -72,4 +75,5 @@ div.aboutMe {
 }
 p.sidebarP{
   text-align: center;
+  display: inline-block;
 }
