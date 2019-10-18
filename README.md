@@ -28,6 +28,10 @@ _Dylan Manley at dylan.manley@gmail.com_
 
 _HTML, CSS, bootstrap_
 
+## Link to the gh-pages ##
+
+_https://dylan12manley.github.io/portfolio/_
+
 ### License
 
 *This software is licensed under the MIT license agreement*
