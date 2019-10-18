@@ -9,10 +9,12 @@ h1{
 h2{
   text-align: center;
 }
+
 header {
   background: linear-gradient(to top, #ffffcc 23%, #ff99cc 62%);
 }
-.sidebar{
+
+.sidebar {
   background: linear-gradient(to top, #ffffcc 23%, #ff99cc 62%);
 }
 
@@ -20,9 +22,14 @@ ol {
   padding: 0px;
   font-size: 10px;
 }
+
 ol li {
   list-style-type: armenian;
   font-weight: bold;
+}
+
+.checkout {
+  color: purple;
 }
 
 img {
