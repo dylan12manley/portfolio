@@ -6,6 +6,17 @@ h1{
   text-align: center;
 }
 
-h3 {
+h2{
   text-align: center;
+}
+header {
+  background: linear-gradient(to top, #ffffcc 23%, #ff99cc 62%);
+}
+p.sideP {
+  padding: 0px;
+}
+
+ol {
+  padding: 0px;
+  font-size: 10px;
 }
